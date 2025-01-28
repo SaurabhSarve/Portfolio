@@ -1,0 +1,1 @@
+This is a personal portfolio showcasing my skills, projects  built with HTML, CSS, and JavaScript, the site features smooth navigation, responsive design, and sections for skills, projects, and contact details.
